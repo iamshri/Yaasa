@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/devbird"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titleTimeline"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ListView style="@style/editText" 
+        android:id= "@+id/statuses" 
+        android:cacheColorHint="#00000000">
+    </ListView>  
+
+</LinearLayout>

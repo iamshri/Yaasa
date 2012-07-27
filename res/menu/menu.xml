@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/itemTimeline" android:icon="@android:drawable/ic_menu_sort_by_size" android:title="@string/titleTimeline"></item><item android:id="@+id/itemstatus" android:title="@string/titleStatus" android:icon="@android:drawable/ic_menu_edit"></item><item
+        android:id="@+id/itemPrefs"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/menuPrefs">
+    </item>
+    <item android:id="@+id/itemToggleService"></item>
+    <item android:id="@+id/itemPurge" android:title="@string/menuTitlePurge" android:icon="@android:drawable/ic_menu_delete"></item>
+    
+    
+    
+
+</menu>

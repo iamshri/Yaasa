@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="titleStatus">Status Update</string>
+    <string name="app_name">Yaasa</string>
+    <string name="statusButtonText">Update</string>
+    <string name="statusHintText">Please enter your status message</string>
+    <string name="toastStatusUpdated">Status updated successfully</string>
+    <string name="toastStatusUpdateFailed">Status update failed</string>
+    <string name="prefUsername">User Name</string>
+    <string name="prefsUnameSummary">Please enter Login name</string>
+    <string name="prefsPassword">Password</string>
+    <string name="prefsPasswordSummary">Please enter password</string>
+    <string name="prefsServerURL">Server URL</string>
+    <string name="prefsServerURLSummary">Please enter server URL</string>
+    <string name="menuPrefs">Prefs</string>
+    <string name="msgPleasewhilePosting">Please wait while message posted</string>
+    <string name="menutitleStartService">Start service</string>
+    <string name="menuTitleServiceStop">Stop Service</string>
+    <string name="menuTitlePurge">Purge</string>
+    <string name="toastPurge">All timeline data purged</string>
+    <string name="titleTimeline">Timeline</string>
+    <string name="msgSetupPrefs">Please enter preferences first!</string>
+    <string name="prefsTitlestartAtBoot">Startup on boot</string>
+    <string name="prefsSummaryStartAtBoot">Should service start on boot?</string>
+    <string name="toastNoNetwork">No Connectivity!</string>
+    <string name="toastServiceNotStarted">No Connectivity! Yaasa updater service not started</string>
+    <string name="notificationTickerTest">Yaasa update service not started!</string>
+    <string name="notificationTitle">Yaasa</string>
+    <string name="notificationContent">Yaasa update service not started due to no connectivity!</string>
+
+</resources>
